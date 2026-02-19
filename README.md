@@ -6,7 +6,7 @@ Buscando oportunidade como Desenvolvedor Jr.
 
 ## 🗂️ Projetos
 
-### Registro de Ganhos
+### Registro de Ganhos - #### Em andamento
 
 A ideia surgiu observando meu pai registrar ganhos diários manualmente em um caderno, organizando entradas, valores e anotações operacionais.
 
