@@ -14,13 +14,13 @@ Estou desenvolvendo o aplicativo como forma de transformar esse processo manual 
 
 #### 🔧 Funcionalidades e conceitos aplicados
 
-✔ Implementação completa de CRUD (Create, Read, Update, Delete)
-✔ Estruturação e modelagem de dados
-✔ Persistência local de informações
-✔ Organização do fluxo de dados entre camadas
-✔ Aplicação de regras básicas de negócio
-✔ Tratamento e validação de inputs (incluindo formatação monetária)
-✔ Uso de controle de versão com Git
+-✔ Implementação completa de CRUD (Create, Read, Update, Delete)
+-✔ Estruturação e modelagem de dados
+-✔ Persistência local de informações
+-✔ Organização do fluxo de dados entre camadas
+-✔ Aplicação de regras básicas de negócio
+-✔ Tratamento e validação de inputs (incluindo formatação monetária)
+-✔ Uso de controle de versão com Git
 
 Projeto focado em transformar um problema real em uma solução prática, aplicando fundamentos de desenvolvimento mobile e organização de código.
 
