@@ -1,6 +1,7 @@
 # Kaique Klock
 
 Desenvolvedor Flutter em formação, com foco em aplicações mobile orientadas a regras de negócio, organização de código e visão de produto.
+
 Buscando oportunidade como Desenvolvedor Jr.
 
 ## 🗂️ Projetos
@@ -38,5 +39,5 @@ Projeto focado em transformar um problema real em uma solução prática, aplica
 
 ## 📫 Contato
 
-[e-mail](kaiqueklock@gmail.com)  
-[LinkedIn](https://www.linkedin.com/in/kaique-klock-985043218/)
+  E-mail: kaiqueklock@gmail.com  
+  [LinkedIn](https://www.linkedin.com/in/kaique-klock-985043218/)
