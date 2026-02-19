@@ -38,5 +38,5 @@ Projeto focado em transformar um problema real em uma solução prática, aplica
 
 ## 📫 Contato
 
-Email: kaiqueklock@gmail.com  
+[e-mail](kaiqueklock@gmail.com)  
 [LinkedIn](https://www.linkedin.com/in/kaique-klock-985043218/)
