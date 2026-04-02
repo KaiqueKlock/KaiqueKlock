@@ -24,11 +24,11 @@ Atualmente estou aprofundando meus conhecimentos em JavaScript, enquanto desenvo
 ## 🛠️ Stack
 
 <p>
-  <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-em%20evolu%C3%A7%C3%A3o-black?style=for-the-badge&logo=javascript" />
+  <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-black?style=for-the-badge&logo=javascript" />
   <img alt="Flutter" src="https://img.shields.io/badge/Flutter-mobile-black?style=for-the-badge&logo=flutter" />
   <img alt="Dart" src="https://img.shields.io/badge/Dart-linguagem-black?style=for-the-badge&logo=dart" />
   <img alt="Git" src="https://img.shields.io/badge/Git-versionamento-black?style=for-the-badge&logo=git" />
-  <img alt="GitHub" src="https://img.shields.io/badge/GitHub-reposit%C3%B3rios-black?style=for-the-badge&logo=github" />
+  <img alt="GitHub" src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github" />
 </p>
 
 ---
