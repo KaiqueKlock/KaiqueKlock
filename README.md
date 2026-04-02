@@ -12,7 +12,7 @@
 
 ---
 
-## 🚀 Sobre mim
+<p align="center"> ## 🚀 Sobre mim </p>
 
 Atuo na área de suporte técnico (N2 / Field Service) e estou em transição para desenvolvimento de software.
 
@@ -21,7 +21,7 @@ Minha experiência com suporte me trouxe uma base forte em resolução de proble
 Atualmente estou aprofundando meus conhecimentos em JavaScript, enquanto desenvolvo projetos práticos com foco em produto, usabilidade e organização de código.
 
 
-## 🛠️ Stack
+<p align="center"> ## 🛠️ Stack </p>
 
 <p align="center">
   <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-black?style=for-the-badge&logo=javascript" />
@@ -33,7 +33,7 @@ Atualmente estou aprofundando meus conhecimentos em JavaScript, enquanto desenvo
 
 ---
 
-## 📌 Projetos em destaque
+<p align="center"> ## 📌 Projetos em destaque </p>
 
 ### 📱 [Controle de Ganhos](https://github.com/KaiqueKlock/Registro-de-Ganhos)
 
@@ -57,7 +57,7 @@ Aplicativo desenvolvido em Flutter para transformar grandes metas em ações pr�
 
 ---
 
-## 📚 Em evolução
+<p align="center"> ## 📚 Em evolução </p>
 
 - JavaScript  
 - Arquitetura de software  
@@ -66,6 +66,6 @@ Aplicativo desenvolvido em Flutter para transformar grandes metas em ações pr�
 - Desenvolvimento orientado a produto  
 
 
-## 🎯 Objetivo
+<p align="center"> ## 🎯 Objetivo </p>
 
 Busco oportunidades como desenvolvedor júnior ou projetos freelance, onde eu possa aplicar na prática o que venho construindo e continuar evoluindo tecnicamente.
