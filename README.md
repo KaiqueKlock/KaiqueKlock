@@ -1,7 +1,7 @@
 <h1 align="center">Olá, eu sou o Kaique Klock 👋</h1>
 
 <p align="center">
-  <strong>Desenvolvedor de Software em formação, com foco em JavaScript e construção de aplicações práticas orientadas a produto.</strong><br>
+  <strong>Desenvolvedor de Software em formação e construção de aplicações práticas orientadas a produto.</strong><br>
   Foco em <strong>JavaScript</strong> e aplicações modernas • Experiência prática com <strong>Flutter</strong>
 </p>
 
