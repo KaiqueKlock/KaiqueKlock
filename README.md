@@ -1,12 +1,12 @@
 <h1>Olá, eu sou o Kaique Klock 👋</h1>
 
-<p>
+<p align="center">
   <strong>Desenvolvedor de Software em formação</strong><br>
   Foco em <strong>JavaScript</strong> e aplicações modernas • Experiência prática com <strong>Flutter</strong>
 </p>
 
 <p>
-  <a href="https://www.linkedin.com/in/kaique-klock-985043218">LinkedIn</a> • 
+  <a href="https://www.linkedin.com/in/kaique-klock-985043218">LinkedIn</a>
 </p>
 
 ---
