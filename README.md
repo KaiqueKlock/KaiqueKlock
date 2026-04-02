@@ -1,26 +1,77 @@
-# Kaique Klock
+<h1 align="center">Olá, eu sou o Kaique Klock 👋</h1>
 
-Desenvolvedor Mobile em formação, com foco em aplicações mobile orientadas a regras de negócio, organização de código e visão de produto.
-Buscando oportunidade como Desenvolvedor Jr.
+<p align="center">
+  <strong>Desenvolvedor de Software em formação</strong><br>
+  Foco em <strong>JavaScript</strong> e aplicações modernas • Experiência prática com <strong>Flutter</strong>
+</p>
 
-## 🛠 Stack
+<p align="center">
+  <a href="https://www.linkedin.com/in/kaique-klock-985043218">LinkedIn</a> •
+</p>
 
-- Flutter
-- Dart
-- Firebase (básico)
-- Consumo de APIs REST
-- Git & GitHub
-- Estruturação de MVP
-- Lógica aplicada a regras de negócio
+---
+
+## 🚀 Sobre mim
+
+Atuo na área de suporte técnico (N2 / Field Service) e estou em transição para desenvolvimento de software.
+
+Minha experiência com suporte me trouxe uma base forte em resolução de problemas, visão analítica e entendimento de cenários reais de usuários, algo que hoje aplico diretamente no desenvolvimento de aplicações.
+
+Atualmente estou aprofundando meus conhecimentos em JavaScript, enquanto desenvolvo projetos práticos com foco em produto, usabilidade e organização de código.
+
+---
+
+## 🛠️ Stack
+
+<p>
+  <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-em%20evolu%C3%A7%C3%A3o-black?style=for-the-badge&logo=javascript" />
+  <img alt="Flutter" src="https://img.shields.io/badge/Flutter-mobile-black?style=for-the-badge&logo=flutter" />
+  <img alt="Dart" src="https://img.shields.io/badge/Dart-linguagem-black?style=for-the-badge&logo=dart" />
+  <img alt="Git" src="https://img.shields.io/badge/Git-versionamento-black?style=for-the-badge&logo=git" />
+  <img alt="GitHub" src="https://img.shields.io/badge/GitHub-reposit%C3%B3rios-black?style=for-the-badge&logo=github" />
+</p>
+
+---
+
+## 📌 Projetos em destaque
+
+### 📱 [Controle de Ganhos](https://github.com/KaiqueKlock/Registro-de-Ganhos)
+Aplicativo desenvolvido em Flutter para registrar e acompanhar ganhos diários de forma simples e organizada.
+
+- Baseado em uma necessidade real
+- CRUD completo
+- Persistência local de dados
+- Foco em usabilidade
+
+### 📱 [Quebrando Metas](https://github.com/KaiqueKlock/Quebrando_metas)
+Aplicativo desenvolvido em Flutter para transformar grandes metas em ações práticas e acompanhar progresso no dia a dia.
+
+- Dashboard com priorização automática
+- Modo foco e controle de tempo
+- Streak e progresso visual
+- Estrutura pensada como produto
+
+---
 
 ## 📚 Em evolução
 
-- Arquitetura de projetos Flutter
+- JavaScript
+- Arquitetura de software
 - Organização e legibilidade de código
-- Boas práticas e padrões
-- Estruturação de apps escaláveis
+- Boas práticas de desenvolvimento
+- Desenvolvimento orientado a produto
 
-## 📫 Contato
+---
 
-- E-mail: kaiqueklock@gmail.com  
-- LinkedIn: [Kaique Klock](https://www.linkedin.com/in/kaique-klock-985043218/)
+## 🎯 Objetivo
+
+Busco oportunidades como desenvolvedor júnior ou projetos freelance, onde eu possa aplicar na prática o que venho construindo e continuar evoluindo tecnicamente.
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true" />
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact" />
+</p>
