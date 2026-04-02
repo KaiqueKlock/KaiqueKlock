@@ -1,12 +1,12 @@
-<h1 align="center">Olá, eu sou o Kaique Klock 👋</h1>
+<h1>Olá, eu sou o Kaique Klock 👋</h1>
 
-<p align="center">
+<p>
   <strong>Desenvolvedor de Software em formação</strong><br>
   Foco em <strong>JavaScript</strong> e aplicações modernas • Experiência prática com <strong>Flutter</strong>
 </p>
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/kaique-klock-985043218">LinkedIn</a> •
+<p>
+  <a href="https://www.linkedin.com/in/kaique-klock-985043218">LinkedIn</a> • 
 </p>
 
 ---
@@ -72,6 +72,6 @@ Busco oportunidades como desenvolvedor júnior ou projetos freelance, onde eu po
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true" />
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact" />
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=KaiqueKlock&show_icons=true" />
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KaiqueKlock&layout=compact" />
 </p>
