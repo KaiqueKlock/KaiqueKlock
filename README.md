@@ -1,7 +1,7 @@
 <h1 align="center">Olá, eu sou o Kaique Klock 👋</h1>
 
 <p align="center">
-  <strong>Desenvolvedor de Software em formação e construção de aplicações práticas orientadas a produto.</strong><br>
+  <strong>Desenvolvedor de Software em formação, focado em construção de aplicações práticas orientadas a produto.</strong><br>
   Foco em <strong>JavaScript</strong> e aplicações modernas • Experiência prática com <strong>Flutter</strong>
 </p>
 
@@ -12,7 +12,7 @@
 
 ---
 
-<p align="center"> <strong> 🚀 Sobre mim </strong> </p>
+## 🚀 Sobre mim
 
 Atuo na área de suporte técnico (N2 / Field Service) e estou em transição para desenvolvimento de software.
 
@@ -21,7 +21,7 @@ Minha experiência com suporte me trouxe uma base forte em resolução de proble
 Atualmente estou aprofundando meus conhecimentos em JavaScript, enquanto desenvolvo projetos práticos com foco em produto, usabilidade e organização de código.
 
 
-<p align="center"> <strong> 🛠️ Stack </strong> </p>
+## 🛠️ Stack
 
 <p align="center">
   <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-black?style=for-the-badge&logo=javascript" />
@@ -33,11 +33,11 @@ Atualmente estou aprofundando meus conhecimentos em JavaScript, enquanto desenvo
 
 ---
 
-<p align="center"> <strong>📌 Projetos em destaque </strong> </p>
+## 📌 Projetos em destaque
 
 ### 📱 [Controle de Ganhos](https://github.com/KaiqueKlock/Registro-de-Ganhos)
 
-Aplicativo desenvolvido em Flutter para registrar e acompanhar ganhos diários de forma simples e organizada.
+Aplicativo desenvolvido para resolver um problema real de organização financeira, permitindo o registro e acompanhamento de ganhos diários de forma simples e eficiente.
 
 - Baseado em uma necessidade real  
 - CRUD completo  
@@ -48,7 +48,7 @@ Aplicativo desenvolvido em Flutter para registrar e acompanhar ganhos diários d
 
 ### 📱 [Quebrando Metas](https://github.com/KaiqueKlock/Quebrando_metas)
 
-Aplicativo desenvolvido em Flutter para transformar grandes metas em ações práticas e acompanhar progresso no dia a dia.
+Aplicativo desenvolvido com foco em transformar grandes objetivos em ações práticas, facilitando a execução e o acompanhamento de metas no dia a dia.
 
 - Dashboard com priorização automática  
 - Modo foco e controle de tempo  
@@ -57,7 +57,7 @@ Aplicativo desenvolvido em Flutter para transformar grandes metas em ações pr�
 
 ---
 
-<p align="center"> <strong> 📚 Em evolução </strong></p>
+## 📚 Em evolução
 
 - JavaScript  
 - Arquitetura de software  
@@ -66,6 +66,6 @@ Aplicativo desenvolvido em Flutter para transformar grandes metas em ações pr�
 - Desenvolvimento orientado a produto  
 
 
-<p align="center"> <strong> ## 🎯 Objetivo </strong></p>
+## 🎯 Objetivo
 
 Busco oportunidades como desenvolvedor júnior ou projetos freelance, onde eu possa aplicar na prática o que venho construindo e continuar evoluindo tecnicamente.
