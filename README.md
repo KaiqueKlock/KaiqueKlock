@@ -31,7 +31,7 @@ Atualmente estou aprofundando meus conhecimentos em JavaScript, enquanto desenvo
   <img alt="GitHub" src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github" />
 </p>
 
----
+
 
 ## 📌 Projetos em destaque
 
