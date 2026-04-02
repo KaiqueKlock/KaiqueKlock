@@ -1,11 +1,11 @@
-<h1>Olá, eu sou o Kaique Klock 👋</h1>
+<h1 align="center">Olá, eu sou o Kaique Klock 👋</h1>
 
 <p align="center">
   <strong>Desenvolvedor de Software em formação</strong><br>
   Foco em <strong>JavaScript</strong> e aplicações modernas • Experiência prática com <strong>Flutter</strong>
 </p>
 
-<p>
+<p align="center">
   <a href="https://www.linkedin.com/in/kaique-klock-985043218">LinkedIn</a>
 </p>
 
@@ -25,9 +25,9 @@ Atualmente estou aprofundando meus conhecimentos em JavaScript, enquanto desenvo
 
 <p>
   <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-black?style=for-the-badge&logo=javascript" />
-  <img alt="Flutter" src="https://img.shields.io/badge/Flutter-mobile-black?style=for-the-badge&logo=flutter" />
-  <img alt="Dart" src="https://img.shields.io/badge/Dart-linguagem-black?style=for-the-badge&logo=dart" />
-  <img alt="Git" src="https://img.shields.io/badge/Git-versionamento-black?style=for-the-badge&logo=git" />
+  <img alt="Flutter" src="https://img.shields.io/badge/Flutter-black?style=for-the-badge&logo=flutter" />
+  <img alt="Dart" src="https://img.shields.io/badge/Dart-black?style=for-the-badge&logo=dart" />
+  <img alt="Git" src="https://img.shields.io/badge/Git-black?style=for-the-badge&logo=git" />
   <img alt="GitHub" src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github" />
 </p>
 
@@ -72,6 +72,6 @@ Busco oportunidades como desenvolvedor júnior ou projetos freelance, onde eu po
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Kaique_Klock&show_icons=true" />
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kaique_Klock&layout=compact" />
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=KaiqueKlock&show_icons=true" />
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KaiqueKlock&layout=compact" />
 </p>
