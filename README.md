@@ -72,6 +72,6 @@ Busco oportunidades como desenvolvedor júnior ou projetos freelance, onde eu po
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=KaiqueKlock&show_icons=true" />
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KaiqueKlock&layout=compact" />
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Kaique_Klock&show_icons=true" />
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kaique_Klock&layout=compact" />
 </p>
