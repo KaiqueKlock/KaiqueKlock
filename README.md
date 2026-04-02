@@ -9,6 +9,7 @@
   <a href="https://www.linkedin.com/in/kaique-klock-985043218">LinkedIn</a>
 </p>
 
+
 ---
 
 ## 🚀 Sobre mim
@@ -19,7 +20,6 @@ Minha experiência com suporte me trouxe uma base forte em resolução de proble
 
 Atualmente estou aprofundando meus conhecimentos em JavaScript, enquanto desenvolvo projetos práticos com foco em produto, usabilidade e organização de código.
 
----
 
 ## 🛠️ Stack
 
@@ -65,7 +65,6 @@ Aplicativo desenvolvido em Flutter para transformar grandes metas em ações pr�
 - Boas práticas de desenvolvimento  
 - Desenvolvimento orientado a produto  
 
----
 
 ## 🎯 Objetivo
 
