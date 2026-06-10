@@ -1,71 +1,67 @@
-<h1 align="center">Olá, eu sou o Kaique Klock 👋</h1>
+# Olá, eu sou o Kaique Klock 👋
 
-<p align="center">
-  <strong>Desenvolvedor de Software em formação, focado em construção de aplicações práticas orientadas a produto.</strong><br>
-  Foco em <strong>JavaScript</strong> e aplicações modernas • Experiência prática com <strong>Flutter</strong>
-</p>
+**Analista de Suporte Técnico N2 / Field Service focado em Automação, Scripting e Cultura DevOps.**
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/kaique-klock-985043218">LinkedIn</a>
-</p>
+Impulsionando a eficiência operacional através de **Python** e **GDScript** • Especialista em resolução de problemas complexos de infraestrutura e automação de rotinas de suporte.
 
+[![LinkedIn](https://shields.io)](https://www.linkedin.com/in/kaique-klock-985043218/)
 
 ---
 
 ## 🚀 Sobre mim
 
-Atuo na área de suporte técnico (N2 / Field Service) e estou em transição para desenvolvimento de software.
+Atuo na linha de frente do Suporte Técnico (N2 / Field Service), onde desenvolvi uma base sólida em diagnóstico de falhas, infraestrutura de TI e atendimento consultivo. 
 
-Minha experiência com suporte me trouxe uma base forte em resolução de problemas, visão analítica e entendimento de cenários reais de usuários, algo que hoje aplico diretamente no desenvolvimento de aplicações.
+Percebi que os melhores profissionais de suporte não apenas resolvem problemas repetitivos, mas os eliminam. Por isso, direcionei minha carreira para a engenharia de sistemas e práticas DevOps. Utilizo **Python** para criar scripts de automação de tarefas e **GDScript** para o desenvolvimento de ferramentas de simulação e lógica interativa.
 
-Atualmente estou aprofundando meus conhecimentos em JavaScript, enquanto desenvolvo projetos práticos com foco em produto, usabilidade e organização de código.
-
-
-## 🛠️ Stack
-
-<p align="center">
-  <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-black?style=for-the-badge&logo=javascript" />
-  <img alt="Flutter" src="https://img.shields.io/badge/Flutter-black?style=for-the-badge&logo=flutter" />
-  <img alt="Dart" src="https://img.shields.io/badge/Dart-black?style=for-the-badge&logo=dart" />
-  <img alt="Git" src="https://img.shields.io/badge/Git-black?style=for-the-badge&logo=git" />
-  <img alt="GitHub" src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github" />
-</p>
-
-
-
-## 📌 Projetos em destaque
-
-### 📱 [Controle de Ganhos](https://github.com/KaiqueKlock/Registro-de-Ganhos)
-
-Aplicativo desenvolvido para resolver um problema real de organização financeira, permitindo o registro e acompanhamento de ganhos diários de forma simples e eficiente.
-
-- Baseado em uma necessidade real  
-- CRUD completo  
-- Persistência local de dados  
-- Foco em usabilidade  
+Minha meta é unir a bagagem prática de suporte ao cliente com a cultura de automação de infraestrutura.
 
 ---
 
-### 📱 [Quebrando Metas](https://github.com/KaiqueKlock/Quebrando_metas)
+## 🛠️ Stack Tecnológica
 
-Aplicativo desenvolvido com foco em transformar grandes objetivos em ações práticas, facilitando a execução e o acompanhamento de metas no dia a dia.
-
-- Dashboard com priorização automática  
-- Modo foco e controle de tempo  
-- Streak e progresso visual  
-- Estrutura pensada como produto  
+- **Linguagens de Programação/Scripting:** Python, GDScript, JavaScript (ES6+)
+- **Sistemas & Infraestrutura:** Linux, Windows Server, Redes, Suporte N2/Field
+- **Ferramentas & Controle de Versão:** Git, GitHub, Automação de Logs, JSON
+- **Próximos Passos (Estudos Atuais):** Docker, Linux Avançado e Bash Scripting
 
 ---
 
-## 📚 Em evolução
+## 📌 Projetos em Destaque
 
-- JavaScript  
-- Arquitetura de software  
-- Organização e legibilidade de código  
-- Boas práticas de desenvolvimento  
-- Desenvolvimento orientado a produto  
+### 🧹 Windows Disk Management & Monitor Automation (SysAdmin / Observabilidade)
+Ecossistema automatizado de monitoramento preventivo e remediação de incidentes de storage em ambientes corporativos Windows.
+- Desenvolvido em **PowerShell (.ps1)** e **Batch (.bat)** com automação nativa.
+- **Observabilidade & ChatOps:** Monitoramento silencioso em nível de kernel (`SYSTEM`) com envio de payloads JSON via Webhooks para alertas em tempo real no Microsoft Teams.
+- **Automação de Infraestrutura:** Implementa lógica de "Fila de Sacrifício" via WMI/CIM para expurgo seguro de perfis inativos (via manipulação de chaves de registro do Regedit), garantindo conformidade e governança de S.O. sem corrupção de dados.
 
+### 📊 True One - Roblox Exporter (Blender Automation Add-on)
+Ferramenta de automação industrial de pipelines de assets, focada em eliminação de falhas de runtime e isolamento de processos em memória.
+- Desenvolvido em **Python** utilizando a API nativa `bpy` do Blender.
+- **Engenharia de Confiabilidade:** Implementa gerenciamento estrito de contexto (`try/finally`) para garantir resiliência e expurgo de dados fantasmas da memória RAM em caso de falhas críticas.
+- **Manipulação de Dados Avançada:** Executa clonagem profunda de estruturas de dados em memória temporária para garantir operações não destrutivas no ambiente original de produção.
+
+### 🤖 Cosmo (Companion AI Engine)
+Ecossistema de inteligência assistida focado em arquitetura modular local-first (100% offline) e processamento de dados em tempo de execução.
+- Desenvolvido em **GDScript** para Godot Engine 4.6.
+- Implementa um pipeline de dados determinístico (Cadeia de Responsabilidade) para NLP e tratamento de intenções.
+- Engenharia de sistemas aplicada: gerenciamento de memória via **LRU Cache** e controle estrito de concorrência assíncrona.
+
+### 📊 License Dashboard & FinOps Pipeline (Data Engineering / Governança)
+Pipeline de dados para auditoria, otimização de custos (FinOps) e governança de conformidade de licenças corporativas.
+- Desenvolvido em **Python** utilizando **Pandas** para engenharia e manipulação de dados de larga escala.
+- **Pipeline de ETL Automatizado:** Executa ingestão, tratamento de anomalias, limpeza de strings e normalização de localizações a partir de múltiplas fontes de dados (Excel/CSV).
+- **Arquitetura Serverless/Offline:** Gera dashboards interativos em HTML/JS puros e empacotamento ZIP automatizado para distribuição ponta a ponta, eliminando custos de infraestrutura e dependências de ferramentas proprietárias de BI.
+---
+
+## 📚 Em Evolução Constante
+
+- **Automação com Python:** Criação de scripts para análise de logs, monitoramento e backups.
+- **Cultura DevOps:** Introdução a contêineres (Docker) e pipelines de CI/CD básicos.
+- **Sistemas Operacionais:** Administração de servidores Linux e Bash Scripting para automação N3.
+
+---
 
 ## 🎯 Objetivo
 
-Busco oportunidades como desenvolvedor júnior ou projetos freelance, onde eu possa aplicar na prática o que venho construindo e continuar evoluindo tecnicamente.
+Busco oportunidades como **Analista de Suporte Avançado (N3)**, **Técnico de Infraestrutura Automatizada** ou **DevOps Trainee/Júnior**, onde eu possa reduzir o tempo de resolução de incidentes através de código eficiente.
