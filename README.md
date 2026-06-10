@@ -2,16 +2,17 @@
 
 Seja bem-vindo ao meu espaço técnico! Sou um profissional da área de TI que adora resolver problemas do mundo real criando ferramentas e automatizando processos com código. 
 
-Atualmente, concentro os meus esforços no desenvolvimento de softwares e scripts inteligentes utilizando **Batch**, **PowerShell**,**Python** e **GDScript**. O meu objetivo por aqui é bem simples: construir aplicações limpas, organizar dados complexos e criar soluções que eliminem o esforço manual do dia a dia.
+Atualmente, concentro os meus esforços no desenvolvimento de softwares e scripts inteligentes utilizando **Batch**, **PowerShell**, **Python** e **GDScript**. O meu objetivo por aqui é bem simples: construir aplicações limpas, organizar dados complexos e criar soluções que eliminem o esforço manual do dia a dia.
 
-[![LinkedIn](https://shields.io)](https://linkedin.com)
+[![LinkedIn](https://shields.io)](https://www.linkedin.com/in/kaique-klock-985043218)
+
 ---
 
-## 🚀 Sobre micron e mim
+## 🚀 Sobre mim
 
 Minha trajetória profissional consolidou uma base sólida em resolução de problemas lógicos complexos, visão analítica de sistemas e entendimento das necessidades reais do usuário final.
 
-Hoje, traduco essa bagagem prática diretamente no desenvolvimento de aplicações e automações. Utilizo **Python** para construir pipelines de dados robustos (ETL), manipulação de arquivos corporativos e scripts inteligentes. Com o **GDScript**, foco no desenvolvimento de arquiteturas orientadas a eventos e lógica procedural modular.
+Hoje, traduzo essa bagagem prática diretamente no desenvolvimento de aplicações e automações. Utilizo **Python** para construir pipelines de dados robustos (ETL), manipulação de arquivos corporativos e scripts inteligentes. Com o **GDScript**, foco no desenvolvimento de arquiteturas orientadas a eventos e lógica procedural modular.
 
 Minha meta é construir códigos eficientes que reduzam o esforço manual e otimizem a performance de sistemas.
 
