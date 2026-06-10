@@ -3,8 +3,8 @@
 Seja bem-vindo ao meu espaço técnico! Sou um profissional da área de TI que adora resolver problemas do mundo real criando ferramentas e automatizando processos com código. 
 
 Atualmente, concentro os meus esforços no desenvolvimento de softwares e scripts inteligentes utilizando **Batch**, **PowerShell**, **Python** e **GDScript**. O meu objetivo por aqui é bem simples: construir aplicações limpas, organizar dados complexos e criar soluções que eliminem o esforço manual do dia a dia.
+[![LinkedIn](https://shields.io)](https://linkedin.com)
 
-<a href="https://www.linkedin.com/in/kaique-klock-985043218" target="_blank"><img src="https://githubusercontent.com" alt="linkedin" width="40" height="40"/></a>
 
 ---
 
