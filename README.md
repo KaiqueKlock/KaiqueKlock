@@ -4,7 +4,8 @@ Seja bem-vindo ao meu espaço técnico! Sou um profissional da área de TI que a
 
 Atualmente, concentro os meus esforços no desenvolvimento de softwares e scripts inteligentes utilizando **Batch**, **PowerShell**,**Python** e **GDScript**. O meu objetivo por aqui é bem simples: construir aplicações limpas, organizar dados complexos e criar soluções que eliminem o esforço manual do dia a dia.
 
-[![LinkedIn](https://shields.io)](https://linkedin.com)
+[![LinkedIn](https://shields.io)](www.linkedin.com/in/kaique-klock-985043218)
+
 ---
 
 ## 🚀 Sobre micron e mim
